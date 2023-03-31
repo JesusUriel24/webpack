@@ -32,7 +32,7 @@ const data = {
         emoji: "💬",
       },
     ],
-    footer: "Made with Love on Colombia",
+    footer: "Puro Mexicano",
   };
 
   const main = () => {
